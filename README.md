@@ -27,3 +27,7 @@ I manually change the `lr` during training:
 - `0.001` for epoch `[250,350)`
 
 Resume the training with `python main.py --resume --lr=0.01`
+
+## Reference
+- http://torch.ch/blog/2015/07/30/cifar.html
+- http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
